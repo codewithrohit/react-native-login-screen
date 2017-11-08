@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_411b8783e50a4af6e1787e8fe0e2e39068ce5ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="454f5cbb480717b8961c9ca307bfb1dec8765b74">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\classes_9427052d6e96ae09f2595bf2ffbaf2f775da8db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.android\build-cache\58603eadd39760388167bea70d04457b243a764c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\classes_a58565c603d889bfd53d438ba4d98de7c46c3c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_63dc0e9062af854e9b22faca8d79c03b3441fd75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_2afe8f131b0d70133d724d4b89f6be2f39603218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_dfe1b7efac3b6087621d48065047ae6f5af0ca6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_f9c4357ef86fd1e53138e1d0675ee8d20a713cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_f9c4357ef86fd1e53138e1d0675ee8d20a713cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_21e71c118b7e619b2321208121c013cae769c6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_dfe1b7efac3b6087621d48065047ae6f5af0ca6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_411b8783e50a4af6e1787e8fe0e2e39068ce5ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\youtube\CodeWithRohit\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\classes_0b97ca3afae60e96fb1120148d087b5408e9af96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_21e71c118b7e619b2321208121c013cae769c6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_0eae844b2be54d2d15526b648340956278dd4b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_38b9df009e614dd8de186ed8be33e749e01c5739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_0eae844b2be54d2d15526b648340956278dd4b97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.android\build-cache\58603eadd39760388167bea70d04457b243a764c\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_51cb4dea66ba3d959dbf48233aea3d679926abc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_63dc0e9062af854e9b22faca8d79c03b3441fd75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Anuj Dahiya\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\android\youtube\CodeWithRohit\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_38b9df009e614dd8de186ed8be33e749e01c5739.jar" />
+    </item>
+
+</items>

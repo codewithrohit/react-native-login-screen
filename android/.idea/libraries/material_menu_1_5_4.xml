@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="material-menu-1.5.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/6d2d1fd718ec02d0a76990d46f4c375568aa566a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/6d2d1fd718ec02d0a76990d46f4c375568aa566a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

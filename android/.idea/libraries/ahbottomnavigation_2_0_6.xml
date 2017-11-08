@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ahbottomnavigation-2.0.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/e70ec708056d82e8a9f9233552b470ab0a6524f8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e70ec708056d82e8a9f9233552b470ab0a6524f8/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aurelhubert/ahbottomnavigation/2.0.6/91183b7aa3721b112635f026f479b992156b9f03/ahbottomnavigation-2.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

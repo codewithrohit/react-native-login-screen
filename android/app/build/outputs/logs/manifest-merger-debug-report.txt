@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.48.2] C:\Users\Anuj Dahiya\.android\build-cache\58603eadd39760388167bea70d04457b243a764c\output\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:7:22-75
+uses-sdk
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [CodeWithRohit:react-native-navigation:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\Anuj Dahiya\.android\build-cache\e70ec708056d82e8a9f9233552b470ab0a6524f8\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\f8615611323d4a490c95b741e61da942abca8cba\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\226d4712170530062597f09acd52f939974484c4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\Anuj Dahiya\.android\build-cache\e7a9425ac534a485c9544e7f1a505d9624ff00fb\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\Anuj Dahiya\.android\build-cache\6d2d1fd718ec02d0a76990d46f4c375568aa566a\output\AndroidManifest.xml:8:5-10:41
+MERGED from [CodeWithRohit:react-native-vector-icons:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-vector-icons\android\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.48.2] C:\Users\Anuj Dahiya\.android\build-cache\58603eadd39760388167bea70d04457b243a764c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\33730318c85742770d8b5d928d035f54a0ef67e3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\badb705784db88b67520f978bb3ed7c476264674\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\5723eb05ae87b1c4ee8216badc9e8857c24960e2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\84ee104bb46e3780df6a1402098888e6d2aa980a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\0358cd5838846219c9d23dcb8b0d779e7ca3998c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\68bc75be3f56683774862665a00d3d111da1bf29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\2ba97183450360f4d03bb8e49dce0232f368862c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\29e96fb85b252166046d2254c8e315a041b1b8aa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Anuj Dahiya\.android\build-cache\b2f534dc9e7fa55cbe455103b2a076e7b3563ec0\output\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Anuj Dahiya\.android\build-cache\d79d910db19fa0783a966cce0a48d33771ce3f3d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Anuj Dahiya\.android\build-cache\24ac208701d5e77d87c601072108d917cddd0d80\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Anuj Dahiya\.android\build-cache\82b49bad326ce4d4f2cb3ad0d4bc3727e62313e3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Anuj Dahiya\.android\build-cache\4ee53401527361e4069aa0d6e5d7f1ecf7056e39\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Anuj Dahiya\.android\build-cache\5c0b099db537a9d2609387188e2152eb3c7bdfa5\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Anuj Dahiya\.android\build-cache\6c2e4995569d31a4c101412c8c207b33cc25f4b9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Anuj Dahiya\.android\build-cache\c863783cbde61bed0d445a3fa9c7c629c3b28551\output\AndroidManifest.xml:2:3-70
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [CodeWithRohit:react-native-navigation:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:11:5-18:19
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] C:\Users\Anuj Dahiya\.android\build-cache\e70ec708056d82e8a9f9233552b470ab0a6524f8\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\226d4712170530062597f09acd52f939974484c4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] C:\Users\Anuj Dahiya\.android\build-cache\e7a9425ac534a485c9544e7f1a505d9624ff00fb\output\AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] C:\Users\Anuj Dahiya\.android\build-cache\6d2d1fd718ec02d0a76990d46f4c375568aa566a\output\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.react:react-native:0.48.2] C:\Users\Anuj Dahiya\.android\build-cache\58603eadd39760388167bea70d04457b243a764c\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\33730318c85742770d8b5d928d035f54a0ef67e3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\badb705784db88b67520f978bb3ed7c476264674\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\5723eb05ae87b1c4ee8216badc9e8857c24960e2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\84ee104bb46e3780df6a1402098888e6d2aa980a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\0358cd5838846219c9d23dcb8b0d779e7ca3998c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\68bc75be3f56683774862665a00d3d111da1bf29\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\2ba97183450360f4d03bb8e49dce0232f368862c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\29e96fb85b252166046d2254c8e315a041b1b8aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Anuj Dahiya\.android\build-cache\c863783cbde61bed0d445a3fa9c7c629c3b28551\output\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Anuj Dahiya\.android\build-cache\ecaa45cd5f69edc0a35917f0a0add290532eb0fb\output\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:16:7-39
+	android:allowBackup
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:15:7-33
+	android:icon
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:17:7-41
+	android:theme
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:18:7-38
+	android:name
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:14:7-38
+activity#com.codewithrohit.MainActivity
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:19:7-28:18
+	android:label
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:21:9-41
+	android:windowSoftInputMode
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:23:9-51
+	android:configChanges
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:22:9-79
+	android:name
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:20:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:26:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:29:7-84
+MERGED from [CodeWithRohit:react-native-navigation:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [CodeWithRohit:react-native-navigation:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:29:17-81
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [CodeWithRohit:react-native-navigation:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [CodeWithRohit:react-native-navigation:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [CodeWithRohit:react-native-navigation:unspecified] D:\android\youtube\CodeWithRohit\node_modules\react-native-navigation\android\app\build\intermediates\bundles\default\AndroidManifest.xml:13:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\f8615611323d4a490c95b741e61da942abca8cba\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\226d4712170530062597f09acd52f939974484c4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\c7c6f2c1b5f4ac90917cfacda3d8e943d4594988\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\33730318c85742770d8b5d928d035f54a0ef67e3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\badb705784db88b67520f978bb3ed7c476264674\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\5723eb05ae87b1c4ee8216badc9e8857c24960e2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\84ee104bb46e3780df6a1402098888e6d2aa980a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\0358cd5838846219c9d23dcb8b0d779e7ca3998c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\68bc75be3f56683774862665a00d3d111da1bf29\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\2ba97183450360f4d03bb8e49dce0232f368862c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\29e96fb85b252166046d2254c8e315a041b1b8aa\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Anuj Dahiya\.android\build-cache\370a42e7d6ca7c3a003db3c70c59e14b020e8811\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\android\youtube\CodeWithRohit\android\app\src\main\AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
